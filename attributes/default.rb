@@ -1,0 +1,1 @@
+default["gem-config"][:users] = []
